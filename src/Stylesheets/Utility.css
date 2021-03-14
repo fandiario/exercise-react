@@ -1,0 +1,12 @@
+.batik-clickable-element {
+    cursor: pointer
+}
+
+.batik-link {
+    color: inherit
+}
+
+.batik-link:hover {
+    color: inherit;
+    text-decoration: none;
+}

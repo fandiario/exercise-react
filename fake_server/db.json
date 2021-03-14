@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user01@email.com",
+      "password": "user01-email.com"
+    },
+    {
+      "id": 2,
+      "email": "user02@email.com",
+      "password": "user02-email.com"
+    },
+    {
+      "email": "user03@email.com",
+      "password": "user03-email.com\"",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Batik Shirt Long ASMORO BAWONO",
+      "brand": "Batik Keris",
+      "category": "Shirt",
+      "stock": 20,
+      "price": 500000,
+      "discount": 10,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_2720-copy-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_3513-copy-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_3509-copy-scaled.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Batik Shirt Long KAWUNG PUSPO",
+      "brand": "Batik Keris",
+      "category": "Shirt",
+      "stock": 15,
+      "price": 350000,
+      "discount": 15,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9114-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9132-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9117-scaled.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Batik Shirt Short NAGA ADHI MUKTI",
+      "brand": "Batik Keris",
+      "category": "Shirt",
+      "stock": 20,
+      "price": 300000,
+      "discount": 0,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_2250-copy.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_2239-copy.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_2245-copy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Batik Shirt Long JIWA PARANG ANGKASA",
+      "brand": "Batik Keris",
+      "category": "Shirt",
+      "stock": 30,
+      "price": 550000,
+      "discount": 0,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/MG_1678-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/MG_1653-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/MG_1666-scaled.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Batik Shirt Short SEKTI KENCONO",
+      "brand": "Batik Keris",
+      "category": "Shirt",
+      "stock": 2,
+      "price": 250000,
+      "discount": 10,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2020/08/MG_5610_HITAM_DEPAN-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2020/08/MG_5608_NAVY_DEPAN-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2020/08/MG_5609_NAVY_BELAKANG-scaled.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Batik Dress SEKAR KAWUNG KOMBINASI",
+      "brand": "Batik Keris",
+      "category": "Dress",
+      "stock": 15,
+      "price": 350000,
+      "discount": 0,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_1221-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_1226-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/MG_1231-scaled.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Batik Blouse SEKAR ANGKOSO",
+      "brand": "Batik Keris",
+      "category": "Blouse",
+      "stock": 15,
+      "price": 300000,
+      "discount": 10,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/IMG_3781-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/IMG_3788-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/IMG_3781-scaled.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Batik Blouse GURDO SAKTI WALUYO",
+      "brand": "Batik Keris",
+      "category": "Blouse",
+      "stock": 20,
+      "price": 450000,
+      "discount": 0,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9682-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9675-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_9677-scaled.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Batik Dress LENGKO KUPU-KUPU",
+      "brand": "Batik Keris",
+      "category": "Dress",
+      "stock": 15,
+      "price": 250000,
+      "discount": 20,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/1-copy-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/2-copy-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/3-copy-scaled.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Batik Blouse HARMONI",
+      "brand": "Batik Keris",
+      "category": "Blouse",
+      "stock": 20,
+      "price": 500000,
+      "discount": 0,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_6188-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_6182-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/02/MG_6186-scaled.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Batik Fabric KAWUNG AGENG",
+      "brand": "Batik Keris",
+      "category": "Fabric",
+      "stock": 15,
+      "price": 200000,
+      "discount": 15,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3372-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3724-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3046_komp2-scaled.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Batik Fabric PARANG BARIS",
+      "brand": "Batik Keris",
+      "category": "Fabric",
+      "stock": 20,
+      "price": 250000,
+      "discount": 25,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3453-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2945_komp-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2943-scaled.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Batik Fabric KRESNO WIBOWO",
+      "brand": "Batik Keris",
+      "category": "Fabric",
+      "stock": 15,
+      "price": 250000,
+      "discount": 25,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3622-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2885-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2880-scaled.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Batik Fabric TENUN PUSPO",
+      "brand": "Batik Keris",
+      "category": "Fabric",
+      "stock": 19,
+      "price": 250000,
+      "discount": 15,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3495-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2945_komp5-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3495-scaled.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Batik Fabric SONGKET CEPLOK",
+      "brand": "Batik Keris",
+      "category": "Fabric",
+      "stock": 20,
+      "price": 150000,
+      "discount": 10,
+      "weight": 1000,
+      "image1": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3509-scaled.jpg",
+      "image2": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2946_komp4-scaled.jpg",
+      "image3": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_2956_1-scaled.jpg"
+    }
+  ],
+  "carts": [],
+  "transactions": [
+    {
+      "idUser": "1",
+      "status": "paid",
+      "createdAt": "14-Mar-2021 13:09:33",
+      "totalPrice": 350000,
+      "detail": [
+        {
+          "productName": "Batik Fabric KAWUNG AGENG",
+          "productPrice": 200000,
+          "quantity": 1,
+          "productImage": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3372-scaled.jpg"
+        },
+        {
+          "productName": "Batik Fabric SONGKET CEPLOK",
+          "productPrice": 150000,
+          "quantity": 1,
+          "productImage": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3509-scaled.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "idUser": "1",
+      "status": "paid",
+      "createdAt": "14-Mar-2021 13:12:12",
+      "totalPrice": 550000,
+      "detail": [
+        {
+          "productName": "Batik Fabric PARANG BARIS",
+          "productPrice": 250000,
+          "quantity": 1,
+          "productImage": "https://batikkerisonline.co.id/wp-content/uploads/2021/01/IMG_3453-scaled.jpg"
+        },
+        {
+          "productName": "Batik Blouse SEKAR ANGKOSO",
+          "productPrice": 300000,
+          "quantity": 1,
+          "productImage": "https://batikkerisonline.co.id/wp-content/uploads/2021/03/IMG_3781-scaled.jpg"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
